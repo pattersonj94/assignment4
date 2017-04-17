@@ -96,3 +96,25 @@ input:-moz-placeholder {
   line-height: 45px;
   text-align: center;
 }
+
+.complete {
+  padding: 10px;
+  font-family: serif;
+}
+
+.complete h2 {
+  font-size: 15px;
+  font-style: Bold;
+  text-decoration: underline;
+  text-transform: capitalize;
+  color: green;
+}
+
+.complete a {
+  color: red;
+  text-decoration: underline;
+}
+
+.complete a:hover {
+  color: blue;
+}
